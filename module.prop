@@ -1,0 +1,6 @@
+id=microg
+name=microG
+version=v1.0
+versionCode=1
+author=RexHackbro
+description=Provides microG's GmsCore and GsfProxy
